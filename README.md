@@ -19,15 +19,15 @@
 <table align="center">
   <tr>
    <td align="center" width="100">
-        <a href="https://www.linkedin.com/in/dev-shrut-jain-920964288/" target="_main"><img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" /></a>
+        <a href="https://www.linkedin.com/in/dev-shrut-jain-920964288/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" /></a>
       <br>Linkedin
    </td>
     <td align="center" width="100">
-        <a href="https://leetcode.com/u/jaindevshrut/" target = "_main"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icon" width="45" height="45" /></a>
+        <a href="https://leetcode.com/u/jaindevshrut/" target = "_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icon" width="45" height="45" /></a>
       <br>Leetcode
     </td>
        <td align="center" width="100">
-        <a href="https://codeforces.com/profile/jaindevshrut" target="_main"><img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png?f=webp&w=256" alt="icon" width="45" height="45" /></a>
+        <a href="https://codeforces.com/profile/jaindevshrut" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png?f=webp&w=256" alt="icon" width="45" height="45" /></a>
       <br>Codeforces
     </td>
   </tr>
