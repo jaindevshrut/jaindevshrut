@@ -1,12 +1,10 @@
 
-<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
 <h2 align="center"><samp>👋 Hi, I’m @jaindevshrut(chintu coder)</samp></h2>
 <h3 align="center"><samp>👀 I’m interested in coding</samp> </h3>
 
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/jaindevshrut/images/main/gif/mario-working.gif">
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
 
 <div style="margin-bottom: 200px;"></div>
 
@@ -21,16 +19,16 @@
 <table align="center">
   <tr>
    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
+        <a href="https://www.linkedin.com/in/dev-shrut-jain-920964288/" target="_main"><img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" /></a>
       <br>Linkedin
    </td>
     <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icon" width="45" height="45" />
+        <a href="https://leetcode.com/u/jaindevshrut/" target = "_main"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icon" width="45" height="45" /></a>
       <br>Leetcode
     </td>
        <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="icon" width="45" height="45" />
-      <br>Medium
+        <a href="https://codeforces.com/profile/jaindevshrut" target="_main"><img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png?f=webp&w=256" alt="icon" width="45" height="45" /></a>
+      <br>Codeforces
     </td>
   </tr>
 </table>
@@ -61,6 +59,14 @@
         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
       <br>Figma
     </td>
+  <td align="center" width="100"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
+      <br>Github
+    </td>
   </tr>
   <tr>
     <td align="center" width="100">
@@ -87,23 +93,16 @@
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>My SQL
        
   </tr>
  <tr>
+   <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>My SQL
+   </td>
         <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
       <br>Postman
-    </td>
-       <td align="center" width="100"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
-      <br>Github
     </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
