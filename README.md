@@ -8,7 +8,7 @@
 
 <div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 Reach me at https://www.linkedin.com/in/dev-shrut-jain-920964288/</samp>
+<samp>- 📫 Reach me at https://www.jaindevshrut.me</samp>
 
 <samp>- 📫 Reach me at jaindevshrut@gmail.com</samp>
 
@@ -19,7 +19,7 @@
 <table align="center">
   <tr>
    <td align="center" width="100">
-        <a href="https://www.linkedin.com/in/dev-shrut-jain-920964288/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" /></a>
+        <a href="https://www.linkedin.com/in/jaindevshrut/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" /></a>
       <br>Linkedin
    </td>
     <td align="center" width="100">
